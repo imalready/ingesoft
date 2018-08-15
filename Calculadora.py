@@ -52,7 +52,7 @@ def Calculadora():
 
     Menu()
 
-    opc = int(input("Selecione Opcion\n"))
+    opc = int(input("Selecione Alternativa\n"))
 
     while (opc >0 and opc <5):
 
